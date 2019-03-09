@@ -1,0 +1,6 @@
+:2015
+
+root /hugosite/terrassa/public
+
+tls off
+gzip
